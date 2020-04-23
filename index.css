@@ -38,9 +38,16 @@ span, a, p {
 }
 
 body {
-    font-family: opensans-regular, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+    font-family: opensans-regular, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 .center-list {
     text-align: center;
 }
+
+main {
+    flex: 1 0 auto;
+  }
