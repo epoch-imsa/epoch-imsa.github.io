@@ -1,0 +1,9 @@
+@font-face {
+    font-family: OCRAStd;
+    src: url(OCRAStd.ttf);
+}
+.logofont {
+    font-family: OCRAStd; 
+    color: #9DBBAE; 
+    font-size: 3em;
+}

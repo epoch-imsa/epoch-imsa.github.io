@@ -1,0 +1,70 @@
+url: http://localhost:8082
+baseurl: /
+
+# Site settings
+title: Epoch
+logotitle: EPOCH
+email: imsaepoch@gmail.com
+description: "Empowering Youth With Advanced Computational Resources to Promote Scientific Creativity"
+tos: https://google.com
+privacy_policy: https://google.com
+
+# Team names, titles and social links
+people:
+- name: JuWon Park
+  pic: 1
+  position: CEO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Dev Singh
+  pic: 2
+  position: CTO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Simone Angelov
+  pic: 3
+  position: CSO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+- name: Sage Owen
+  pic: 3
+  position: CRO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: discord
+    url: https://discord.gg/3bhAKXe
+  - title: github
+    url: http://github.com/epoch-imsa
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 1500 Sullivan Road
+  - line: Aurora, IL 60565
+
+# Build settings
+markdown: kramdown
+permalink: pretty
